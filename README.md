@@ -73,21 +73,21 @@ Secure • Efficient • Scalable
 
 ---
 
-## 📈 Contribution Activity
+## 🧠 Philosophy
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenndiandra&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zenndiandra/zenndiandra/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-> Untuk mengaktifkan snake animation, perlu setup GitHub Action.
+> "The quieter you become, the more you are able to hear."
+>
+> `while(alive){`
+>  
+> &nbsp;&nbsp;&nbsp;&nbsp;`learn();`
+>  
+> &nbsp;&nbsp;&nbsp;&nbsp;`build();`
+>  
+> &nbsp;&nbsp;&nbsp;&nbsp;`secure();`
+>  
+> &nbsp;&nbsp;&nbsp;&nbsp;`improve();`
+>  
+> `}`
 
 ---
 
@@ -106,15 +106,6 @@ Secure • Efficient • Scalable
 </p>
 
 ---
-
-```bash
-while(alive){
-   code();
-   learn();
-   secure();
-   repeat();
-}
-```
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=120&section=footer"/>
