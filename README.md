@@ -1,112 +1,106 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00FF41&center=true&vCenter=true&width=800&lines=Zenndiandra;Fullstack+Developer;Secure.+Build.+Scale.;Welcome+to+my+terminal." />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zenndiandra&label=Visitors&color=00ff41&style=flat" />
-</p>
+<h1 align="center">Zenndiandra</h1>
+<p align="center"><b>Fullstack Developer</b></p>
+<p align="center">Secure • Build • Scale</p>
 
 ---
 
 ## 👨‍💻 About Me
 
 ```bash
-┌──(zenndiandra㉿github)-[~/profile]
-└─$ whoami
-Zenndiandra - Fullstack Developer
+> whoami
+Zenndiandra
 
-└─$ skills --list
-JavaScript, HTML, CSS, Python, PHP, SQL, C#, C++
+> role
+Fullstack Developer
 
-└─$ cloud --stack
-DigitalOcean, Vercel, Netlify, Cloudflare, Google Cloud
+> focus
+Backend Engineering • Web Architecture • Secure Development
 
-└─$ frameworks
-Laravel, Bootstrap, Node.js, NestJS
+> current_mission
+Building scalable and efficient web systems
 
-└─$ databases
-MariaDB, Supabase, MySQL
-
-└─$ mindset
-Secure • Efficient • Scalable
+> mindset
+Discipline > Motivation
 ```
 
 ---
 
-## 🧠 Tech Arsenal
+## 🛠️ Core Stack
 
 ### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,python,php,mysql,cs,cpp" />
-</p>
+<img src="https://skillicons.dev/icons?i=js,html,css,python,php,mysql,cs,cpp" />
 
 ### ⚙️ Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,bootstrap,nodejs,nestjs" />
-</p>
+<img src="https://skillicons.dev/icons?i=laravel,bootstrap,nodejs,nestjs" />
 
 ### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
-</p>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 
-### ☁️ Cloud & Hosting
-<p>
-  <img src="https://skillicons.dev/icons?i=digitalocean,vercel,netlify,cloudflare" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-</p>
+### ☁️ Cloud & Infrastructure
+<img src="https://skillicons.dev/icons?i=digitalocean,vercel,netlify,cloudflare" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zenndiandra&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenndiandra&theme=chartreuse-dark&hide_border=true&background=0d1117" height="170"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=zenndiandra&show_icons=true&theme=chartreuse-dark&hide_border=true" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenndiandra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zenndiandra&theme=chartreuse-dark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenndiandra&layout=compact&theme=chartreuse-dark&hide_border=true" />
 
 ---
 
-## 🧠 Philosophy
+## 📈 Activity Graph
 
-> "The quieter you become, the more you are able to hear."
->
-> `while(alive){`
->  
-> &nbsp;&nbsp;&nbsp;&nbsp;`learn();`
->  
-> &nbsp;&nbsp;&nbsp;&nbsp;`build();`
->  
-> &nbsp;&nbsp;&nbsp;&nbsp;`secure();`
->  
-> &nbsp;&nbsp;&nbsp;&nbsp;`improve();`
->  
-> `}`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zenndiandra&theme=chartreuse-dark&hide_border=true" />
+
+---
+
+## 🧠 Development Principles
+
+```js
+const philosophy = {
+  code: "Clean & Maintainable",
+  security: "Always Considered",
+  architecture: "Scalable by Design",
+  learning: "Never Stops"
+};
+```
+
+```js
+while(alive){
+  learn();
+  build();
+  secure();
+  improve();
+}
+```
+
+---
+
+## 🔥 What I Work With Daily
+
+- REST API Development
+- Authentication & Authorization
+- Database Optimization
+- Deployment & CI/CD
+- Cloud Deployment Architecture
+- Performance Tuning
 
 ---
 
 ## 📡 Connect With Me
 
-<p align="center">
-  <a href="https://www.instagram.com/zendiandra_">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41"/>
-  </a>
-  <a href="https://t.me/Z3N_sec">
-    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00FF41"/>
-  </a>
-  <a href="mailto:zennpietroo@protonmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=protonmail&logoColor=00FF41"/>
-  </a>
-</p>
+Instagram: https://www.instagram.com/zendiandra_  
+Telegram: https://t.me/Z3N_sec  
+Email: zennpietroo@protonmail.com  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=100&section=footer"/>
 </p>
