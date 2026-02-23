@@ -1,31 +1,39 @@
-**<h1 align="center">Zenndiandra</h1>
-<p align="center"><b>Fullstack Developer</b></p>
-<p align="center">Secure • Build • Scale</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00FF41&center=true&vCenter=true&width=600&lines=Zenndiandra;Fullstack+Developer;Secure.+Build.+Scale.;Welcome+to+my+terminal." />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zenndiandra&label=Visitors&color=00ff41&style=flat" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
 ```bash
-> whoami
-Zenndiandra
+┌──(zenndiandra㉿github)-[~/profile]
+└─$ whoami
+Zenndiandra - Fullstack Developer
 
-> role
-Fullstack Developer
+└─$ skills --list
+JavaScript, HTML, CSS, Python, PHP, SQL, C#, C++
 
-> focus
-Backend Engineering • Web Architecture • Secure Development
+└─$ cloud --stack
+DigitalOcean, Vercel, Netlify, Cloudflare, Google Cloud
 
-> current_mission
-Building scalable and efficient web systems
+└─$ frameworks
+Laravel, Bootstrap, Node.js, NestJS
 
-> mindset
-Discipline > Motivation
+└─$ databases
+MariaDB, Supabase, MySQL
+
+└─$ mindset
+Secure • Efficient • Scalable
 ```
 
 ---
 
-## 🛠️ Core Stack
+## 🧠 Tech Arsenal
 
 ### 💻 Languages
 <img src="https://skillicons.dev/icons?i=js,html,css,python,php,mysql,cs,cpp" />
@@ -34,42 +42,32 @@ Discipline > Motivation
 <img src="https://skillicons.dev/icons?i=laravel,bootstrap,nodejs,nestjs" />
 
 ### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 
-### ☁️ Cloud & Infrastructure
-<img src="https://skillicons.dev/icons?i=digitalocean,vercel,netlify,cloudflare" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+### ☁️ Cloud & Hosting
+<img src="https://skillicons.dev/icons?i=digitalocean" />
+<img src="https://skillicons.dev/icons?i=vercel" />
+<img src="https://skillicons.dev/icons?i=netlify" />
+<img src="https://skillicons.dev/icons?i=cloudflare" />
+<img src="https://skillicons.dev/icons?i=gcp" />
 
 ---
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=zenndiandra&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=zenndiandra&show_icons=true&theme=chartreuse-dark&hide_border=true" width="100%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zenndiandra&theme=chartreuse-dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zenndiandra&theme=chartreuse-dark&hide_border=true" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenndiandra&layout=compact&theme=chartreuse-dark&hide_border=true" />
-
----
-
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zenndiandra&theme=chartreuse-dark&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenndiandra&layout=compact&theme=chartreuse-dark&hide_border=true" width="100%" />
 
 ---
 
-## 🧠 Development Principles
+## 🧠 Philosophy
 
-```js
-const philosophy = {
-  code: "Clean & Maintainable",
-  security: "Always Considered",
-  architecture: "Scalable by Design",
-  learning: "Never Stops"
-};
-```
+> "The quieter you become, the more you are able to hear."
 
 ```js
 while(alive){
@@ -82,26 +80,24 @@ while(alive){
 
 ---
 
-## 🔥 What I Work With Daily
-
-- REST API Development
-- Authentication & Authorization
-- Database Optimization
-- Deployment & CI/CD
-- Cloud Deployment Architecture
-- Performance Tuning
-
----
-
 ## 📡 Connect With Me
 
-Instagram: https://www.instagram.com/zendiandra_  
-Telegram: https://t.me/Z3N_sec  
-Email: zennpietroo@protonmail.com  
+<p align="center">
+  <a href="https://www.instagram.com/zendiandra_">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=00FF41"/>
+  </a>
+  <br/>
+  <a href="https://t.me/Z3N_sec">
+    <img src="https://img.shields.io/badge/Telegram-000000?style=flat&logo=telegram&logoColor=00FF41"/>
+  </a>
+  <br/>
+  <a href="mailto:zennpietroo@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=flat&logo=protonmail&logoColor=00FF41"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=90&section=footer"/>
 </p>
-**
