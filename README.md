@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00FF41&center=true&vCenter=true&width=600&lines=Zenndiandra;Fullstack+Developer;Secure.+Build.+Scale.;Welcome+to+my+terminal." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00FF41&center=true&vCenter=true&width=800&lines=Zenndiandra;Fullstack+Developer;Secure.+Build.+Scale.;Welcome+to+my+terminal." />
 </h1>
 
 <p align="center">
@@ -36,47 +36,58 @@ Secure • Efficient • Scalable
 ## 🧠 Tech Arsenal
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=js,html,css,python,php,mysql,cs,cpp" />
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,php,mysql,cs,cpp" />
+</p>
 
 ### ⚙️ Frameworks
-<img src="https://skillicons.dev/icons?i=laravel,bootstrap,nodejs,nestjs" />
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,bootstrap,nodejs,nestjs" />
+</p>
 
 ### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
+</p>
 
 ### ☁️ Cloud & Hosting
-<img src="https://skillicons.dev/icons?i=digitalocean" />
-<img src="https://skillicons.dev/icons?i=vercel" />
-<img src="https://skillicons.dev/icons?i=netlify" />
-<img src="https://skillicons.dev/icons?i=cloudflare" />
-<img src="https://skillicons.dev/icons?i=gcp" />
+<p>
+  <img src="https://skillicons.dev/icons?i=digitalocean,vercel,netlify,cloudflare" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=zenndiandra&show_icons=true&theme=chartreuse-dark&hide_border=true" width="100%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zenndiandra&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenndiandra&theme=chartreuse-dark&hide_border=true&background=0d1117" height="170"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zenndiandra&theme=chartreuse-dark&hide_border=true" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenndiandra&layout=compact&theme=chartreuse-dark&hide_border=true" width="100%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenndiandra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+</p>
 
 ---
 
 ## 🧠 Philosophy
 
 > "The quieter you become, the more you are able to hear."
-
-```js
-while(alive){
-  learn();
-  build();
-  secure();
-  improve();
-}
-```
+>
+> `while(alive){`
+>  
+> &nbsp;&nbsp;&nbsp;&nbsp;`learn();`
+>  
+> &nbsp;&nbsp;&nbsp;&nbsp;`build();`
+>  
+> &nbsp;&nbsp;&nbsp;&nbsp;`secure();`
+>  
+> &nbsp;&nbsp;&nbsp;&nbsp;`improve();`
+>  
+> `}`
 
 ---
 
@@ -84,20 +95,18 @@ while(alive){
 
 <p align="center">
   <a href="https://www.instagram.com/zendiandra_">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=00FF41"/>
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41"/>
   </a>
-  <br/>
   <a href="https://t.me/Z3N_sec">
-    <img src="https://img.shields.io/badge/Telegram-000000?style=flat&logo=telegram&logoColor=00FF41"/>
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00FF41"/>
   </a>
-  <br/>
   <a href="mailto:zennpietroo@protonmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=flat&logo=protonmail&logoColor=00FF41"/>
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=protonmail&logoColor=00FF41"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=120&section=footer"/>
 </p>
