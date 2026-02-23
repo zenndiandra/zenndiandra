@@ -59,35 +59,17 @@ Secure • Efficient • Scalable
 
 ---
 
-## 🐍 Contribution Activity
+## 🛠 Tools
 
 <p align="center">
-  <img src="https://github.com/zenndiandra/zenndiandra/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,docker,postman" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/fdroid/00FF41" height="48" />
 </p>
 
 ---
-
-## 🚀 Current Focus
-
-```bash
-┌──(zenndiandra㉿github)-[~/focus]
-└─$ cat now.txt
-
-• Building scalable backend systems
-• Exploring cloud security
-• Writing cleaner & more maintainable code
-• Learning something new every day
-```
-
----
-
-## 🧩 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/zenndiandra">
-    <img src="https://github-profile-trophy.vercel.app/?username=zenndiandra&theme=matrix&no-frame=true&margin-w=10&margin-h=10" />
-  </a>
-</p>
 
 ## 🧠 Philosophy
 
