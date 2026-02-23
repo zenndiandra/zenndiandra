@@ -64,13 +64,13 @@ Secure • Efficient • Scalable
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zenndiandra&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zenndiandra&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&cache_seconds=86400" height="170"/>
   
-  <img src="https://streak-stats.demolab.com?user=zenndiandra&theme=chartreuse-dark&hide_border=true&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=AAAAAA" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenndiandra&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenndiandra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenndiandra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&cache_seconds=86400"/>
 </p>
 
 ---
