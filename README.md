@@ -1,4 +1,4 @@
-<h1 align="center">Zenndiandra</h1>
+**<h1 align="center">Zenndiandra</h1>
 <p align="center"><b>Fullstack Developer</b></p>
 <p align="center">Secure • Build • Scale</p>
 
@@ -104,3 +104,4 @@ Email: zennpietroo@protonmail.com
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=100&section=footer"/>
 </p>
+**
