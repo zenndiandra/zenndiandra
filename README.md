@@ -1,16 +1,121 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00FF41&center=true&vCenter=true&width=800&lines=Zenndiandra;Fullstack+Developer;Secure.+Build.+Scale.;Welcome+to+my+terminal." />
+</h1>
 
-<!--
-**zenndiandra/zenndiandra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zenndiandra&label=Visitors&color=00ff41&style=flat" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+```bash
+┌──(zenndiandra㉿github)-[~/profile]
+└─$ whoami
+Zenndiandra - Fullstack Developer
+
+└─$ skills --list
+JavaScript, HTML, CSS, Python, PHP, SQL, C#, C++
+
+└─$ cloud --stack
+DigitalOcean, Vercel, Netlify, Cloudflare, Google Cloud
+
+└─$ frameworks
+Laravel, Bootstrap, Node.js, NestJS
+
+└─$ databases
+MariaDB, Supabase, MySQL
+
+└─$ mindset
+Secure • Efficient • Scalable
+```
+
+---
+
+## 🧠 Tech Arsenal
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,python,php,mysql,cs,cpp" />
+</p>
+
+### ⚙️ Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,bootstrap,nodejs,nestjs" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
+</p>
+
+### ☁️ Cloud & Hosting
+<p>
+  <img src="https://skillicons.dev/icons?i=digitalocean,vercel,netlify,cloudflare" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zenndiandra&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenndiandra&theme=chartreuse-dark&hide_border=true&background=0d1117" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenndiandra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zenndiandra&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zenndiandra/zenndiandra/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> Untuk mengaktifkan snake animation, perlu setup GitHub Action.
+
+---
+
+## 📡 Connect With Me
+
+<p align="center">
+  <a href="https://www.instagram.com/zendiandra_">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF41"/>
+  </a>
+  <a href="https://t.me/Z3N_sec">
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00FF41"/>
+  </a>
+  <a href="mailto:zennpietroo@protonmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=protonmail&logoColor=00FF41"/>
+  </a>
+</p>
+
+---
+
+```bash
+while(alive){
+   code();
+   learn();
+   secure();
+   repeat();
+}
+```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=120&section=footer"/>
+</p>
