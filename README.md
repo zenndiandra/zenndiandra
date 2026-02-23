@@ -36,26 +36,25 @@ Secure • Efficient • Scalable
 ## 🧠 Tech Arsenal
 
 ### 💻 Languages
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,python,php,mysql,cs,cpp" />
 </p>
 
 ### ⚙️ Frameworks
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,bootstrap,nodejs,nestjs" />
 </p>
 
 ### 🗄️ Database
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
 </p>
 
 ### ☁️ Cloud & Hosting
-<p>
-  <img src="https://skillicons.dev/icons?i=digitalocean,vercel,netlify,cloudflare" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=digitalocean,vercel,netlify,cloudflare,gcp" />
 </p>
 
 ---
@@ -64,7 +63,7 @@ Secure • Efficient • Scalable
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zenndiandra&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenndiandra&theme=chartreuse-dark&hide_border=true&background=0d1117" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=zenndiandra&theme=chartreuse-dark&hide_border=true&background=0d1117" height="170"/>
 </p>
 
 <p align="center">
@@ -78,15 +77,15 @@ Secure • Efficient • Scalable
 > "The quieter you become, the more you are able to hear."
 >
 > `while(alive){`
->  
+>
 > &nbsp;&nbsp;&nbsp;&nbsp;`learn();`
->  
+>
 > &nbsp;&nbsp;&nbsp;&nbsp;`build();`
->  
+>
 > &nbsp;&nbsp;&nbsp;&nbsp;`secure();`
->  
+>
 > &nbsp;&nbsp;&nbsp;&nbsp;`improve();`
->  
+>
 > `}`
 
 ---
