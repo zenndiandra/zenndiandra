@@ -59,16 +59,34 @@ Secure • Efficient • Scalable
 
 ---
 
-## 📊 GitHub Analytics
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-lyart-eight-62.vercel.app/api?username=zenndiandra&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="170"/>
-  
-  <img src="https://streak-stats.demolab.com?user=zenndiandra&theme=chartreuse-dark&hide_border=true" height="170"/>
+  <img src="https://github.com/zenndiandra/zenndiandra/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+---
+
+## 🚀 Current Focus
+
+```bash
+┌──(zenndiandra㉿github)-[~/focus]
+└─$ cat now.txt
+
+• Building scalable backend systems
+• Exploring cloud security
+• Writing cleaner & more maintainable code
+• Learning something new every day
+```
+
+---
+
+## 🧩 Featured Projects
+
 <p align="center">
-  <img src="https://github-readme-stats-lyart-eight-62.vercel.app/api/top-langs/?username=zenndiandra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+  <a href="https://github.com/zenndiandra">
+    <img src="https://github-profile-trophy.vercel.app/?username=zenndiandra&theme=matrix&no-frame=true&margin-w=10&margin-h=10" />
+  </a>
 </p>
 
 ## 🧠 Philosophy
